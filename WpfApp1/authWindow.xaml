@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.authWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="450" Width="547.093" Icon=".\icon.ico">
+    <Grid>
+        <Button MaxHeight="30" MaxWidth="300" Content="Войти" FontSize="17" Margin="267,266,119,118" Click="buttonAuthorizClick"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="17" Content="Пароль" Margin="98,154,317,214"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="17" Content="Логин" Margin="98,110,317,265"/>
+        <TextBox MaxHeight="30" MaxWidth="300" Name="loginBox" MaxLength="25" Margin="267,110,119,274" TextWrapping="Wrap" Text=""/>
+        <PasswordBox MaxHeight="30" MaxWidth="300" PasswordChar="*" Name="pasBox" MaxLength="40" Margin="267,154,119,232"/>
+        <Image Visibility="Hidden" Name="capIm" HorizontalAlignment="Left" Height="53" Margin="98,210,0,0" VerticalAlignment="Top" Width="145"/>
+        <TextBox Name="texboxCap" Visibility="Hidden" HorizontalAlignment="Left" Height="33" Margin="267,210,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="153"/>
+
+    </Grid>
+</Window>

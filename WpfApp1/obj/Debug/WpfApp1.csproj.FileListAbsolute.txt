@@ -1,0 +1,429 @@
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\MySql.Data.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\Zstandard.Net.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\Renci.SshNet.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\chassisWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\chassisWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\wheelWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\wheelWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\engineWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\engineWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\brandWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\teamWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\brandWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\teamWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\staffWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\staffWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\tracksWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\tracksWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\racesWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\racesWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\champWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\champWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\invWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\invWindow.baml
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\sponWindow.g.cs
+C:\Users\damag\source\repos\WpfApp1\WpfApp1\obj\Debug\sponWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\authWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\champWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\engineWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\invWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\chassisWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\racesWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\sponWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\staffWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\teamWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\tracksWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\wheelWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\adminWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\MySql.Data.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\Zstandard.Net.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\Renci.SshNet.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\adminWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\authWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\champWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\engineWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\invWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\chassisWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\racesWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\sponWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\staffWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\teamWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\tracksWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\wheelWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\spravWindow.g.cs
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\obj\Debug\spravWindow.baml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\damag\source\repos\1\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\WpfApp1\WpfApp1\obj\Debug\adminWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\authWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\champWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\engineWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\invWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\chassisWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\racesWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\sponWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\spravWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\staffWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\teamWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\tracksWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\wheelWindow.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+E:\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+E:\WpfApp1\WpfApp1\bin\Debug\MySql.Data.dll
+E:\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+E:\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+E:\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+E:\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+E:\WpfApp1\WpfApp1\obj\Debug\adminWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\authWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\champWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\engineWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\invWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\chassisWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\racesWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\sponWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\spravWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\staffWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\teamWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\tracksWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\wheelWindow.baml
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.dll
+E:\WpfApp1\WpfApp1\bin\Debug\Zstandard.Net.dll
+E:\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\WpfApp1\WpfApp1\bin\Debug\BouncyCastle.Crypto.dll
+E:\WpfApp1\WpfApp1\bin\Debug\Ubiety.Dns.Core.dll
+E:\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+E:\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+E:\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.dll
+E:\WpfApp1\WpfApp1\bin\Debug\K4os.Hash.xxHash.dll
+E:\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\MySql.Data.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\Zstandard.Net.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\Renci.SshNet.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\adminWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\authWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\champWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\engineWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\invWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\chassisWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\racesWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\sponWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\spravWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\staffWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\teamWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\tracksWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\wheelWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\adminWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\authWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\champWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\engineWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\invWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\chassisWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\racesWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\sponWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\spravWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\staffWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\teamWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\tracksWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\wheelWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\damag\OneDrive\Рабочий стол\2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\MySql.Data.dll
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+E:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\adminWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\authWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\champWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\engineWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\invWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\chassisWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\racesWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\sponWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\spravWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\staffWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\teamWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\tracksWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\wheelWindow.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\adminWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\authWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\champWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\engineWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\invWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\chassisWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\racesWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\sponWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\spravWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\staffWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\teamWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\tracksWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\wheelWindow.baml
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\диплом\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\adminWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\authWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\champWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\engineWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\invWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\chassisWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\racesWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\sponWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\spravWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\staffWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\teamWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\tracksWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\wheelWindow.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\adminWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\authWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\champWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\engineWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\invWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\chassisWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\racesWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\sponWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\spravWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\staffWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\teamWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\tracksWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\wheelWindow.baml
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\MySql.Data.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\Zstandard.Net.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\Renci.SshNet.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\adminWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\authWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\champWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\engineWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\invWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\chassisWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\racesWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\sponWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\spravWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\staffWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\teamWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\tracksWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\wheelWindow.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\adminWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\authWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\champWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\engineWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\invWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\pilotsWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\bolidesWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\chassisWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\racesWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\sponWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\spravWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\staffWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\teamWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\tracksWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\wheelWindow.baml
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\damag\OneDrive\Рабочий стол\Разное\Что то\диплом\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

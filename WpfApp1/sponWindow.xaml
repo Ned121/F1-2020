@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp1.sponWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Спонсоры" Height="450" Width="622.477" Icon=".\icon.ico">
+    <Grid Margin="0,0,2,0">
+
+        <ListView MouseDoubleClick="sponDoubleClick"  Name="sponList" Margin="10,131,10,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn x:Name="name"  DisplayMemberBinding="{Binding Path=name}" Width="auto">Название спонсора</GridViewColumn>
+                    <GridViewColumn x:Name="materials"  DisplayMemberBinding="{Binding Path=materials}" Width="auto">Продукция</GridViewColumn>
+                    <GridViewColumn x:Name="id"  DisplayMemberBinding="{Binding Path=id}" Width="0"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox  PreviewTextInput="charInputR" MaxLength="20" Name="materialsS" Margin="123,24,0,0" TextWrapping="Wrap" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="236"/>
+        <Label Content="Продукция" RenderTransformOrigin="0.517,0.335" Margin="18,21,0,0" Height="33" VerticalAlignment="Top" HorizontalAlignment="Left" Width="79"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="394,24,0,0" VerticalAlignment="Top" Width="75" Click="backButton" Height="20"/>
+        <Button Content="Добавить" Margin="394,64,0,0" Click="clickAdd" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75"/>
+        <Button Content="Редактировать" Margin="504,24,0,0" Click="clickUpd" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Width="84"/>
+        <Button Content="Удалить" Margin="504,64,0,0" Click="clickDel" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Width="84"/>
+        <TextBox Name="idCheck" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="394,108,-150,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <TextBox Name="nameS" MaxLength="20" PreviewTextInput="charInput" Margin="123,66,0,0" TextWrapping="Wrap" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="236"/>
+        <Label Content="Название" Margin="18,66,0,0" Height="37" VerticalAlignment="Top" HorizontalAlignment="Left" Width="79"/>
+    </Grid>
+</Window>
